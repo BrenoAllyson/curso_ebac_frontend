@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formulario de cadastro</h1>
+<form>
+        <label for="seu nome">Escreva seu nome:</label>
+    <input type="text" placeholder="Seu nome"></placeholder>
+<br />
+        <label for="seu e-mail">Escreva seu E-email:</label>
+    <input type="text" placeholder="Seu E-email"></placeholder>
+<br />
+        <label for="sua senha">Escreva sua senha:</label>
+    <input type="password" name="sua senha" placeholder="Sua senha"></placeholder>
+<br />
+<hr/>
+<button type="submit">
+    Cadastrar
+</button>
+</body>
+</html>
